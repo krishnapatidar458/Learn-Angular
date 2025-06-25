@@ -1,5 +1,4 @@
 import { Routes } from '@angular/router';
-import { TodosComponent} from './todos/todos';
 
 export const routes: Routes = [
     {
